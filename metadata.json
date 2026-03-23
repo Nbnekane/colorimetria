@@ -1,0 +1,5 @@
+{
+  "name": "Colorimetría Belleza IA",
+  "description": "App para identificar tu paleta de maquillaje ideal según tu colorimetría personal.",
+  "requestFramePermissions": ["camera"]
+}
